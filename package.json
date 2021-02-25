@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format": "prettier src/*.js -w"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
